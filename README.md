@@ -1,10 +1,9 @@
-<<<<<<< HEAD
-# README
+# LogChange
+## README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README would normally be a useful file but it's not. Yet.
 
-Things you may want to cover:
+Things it might cover in the future:
 
 * Ruby version
 
@@ -23,6 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
-# Logchange
->>>>>>> 3d9407f5620561f40b8c2d45e6c7c3d750711fda
